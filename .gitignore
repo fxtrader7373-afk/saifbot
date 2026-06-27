@@ -1,0 +1,6 @@
+/target
+/debug
+/release
+.env
+*.log
+Cargo.lock
